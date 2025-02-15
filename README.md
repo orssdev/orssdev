@@ -17,9 +17,8 @@
 * [C S 4440 Artificial Intelligence](https://appstate.catalog.acalog.com/preview_course_nopop.php?catoid=30&coid=109104)
 * [C S 3482 Computer Systems II](https://appstate.catalog.acalog.com/preview_course_nopop.php?catoid=30&coid=109092)
 
-### Languages
-* C skills
-* C++ skills
+### Tools and Languages
+* [![](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 
 # 💻 Tools and Languages Skills
