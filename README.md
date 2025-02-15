@@ -24,13 +24,13 @@
 
 # 💻 Tools and Languages Skills
 
-# GitHub Stats
+# 📊 GitHub Stats
 
-![orss01's Stats](https://github-readme-stats.vercel.app/api?username=orss01&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=orss01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![orss01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=orss01&theme=monokai&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=orss01&theme=dark&hide_border=false)
 
-![orss01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orss01&theme=monokai&show_icons=true&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=orss01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <!--
 **orss01/orss01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
