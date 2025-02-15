@@ -25,15 +25,16 @@
 [![](https://skillicons.dev/icons?i=java,python,html,css,js,git,github,c,cpp,vscode,vim,windows,apple,linux,debian,ubuntu,cmake,gradle,md)](https://skillicons.dev)
 
 # 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=orss01&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api?username=orss01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=orss01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div style="display: flex; flex-direction: row;">
+<img src="https://github-readme-stats.vercel.app/api?username=orss01&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=orss01&theme=dark&hide_border=false">
+</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orss01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=orss01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
+
 <!--
 **orss01/orss01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
