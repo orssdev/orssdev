@@ -23,6 +23,7 @@
 
 
 # 💻 Tools and Languages Skills
+[![](https://skillicons.dev/icons?i=java,python,html,css,js,git,github,c,cpp,vscode,vim,windows,apple,linux,debian,ubuntu,cmake,gradle,md)](https://skillicons.dev)
 
 # 📊 GitHub Stats
 
