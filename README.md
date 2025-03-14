@@ -34,7 +34,7 @@
 * [C S 3482 Computer Systems II](https://appstate.catalog.acalog.com/preview_course_nopop.php?catoid=30&coid=109092)
 
 ### Tools and Languages
-[![](https://skillicons.dev/icons?i=nodejs,go,haskell)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs,haskell,androidstudio,kotlin)](https://skillicons.dev)
 
 <!--
 **orss01/orss01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
