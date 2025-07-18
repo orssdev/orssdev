@@ -15,22 +15,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=orssdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
-# 🔭 Currently Working On
-
-* Bachelor's in Computer Science
-* Personal Projects
-    * Games
-    * Websites
-    * Old Projects
-* Implementation of Algorithms
 # 📚 Currently Learning
-<!--
 
-### Attending Appalachian State University 🏫
-
-* [C S 3490 Programming Languages](https://appstate.catalog.acalog.com/preview_course_nopop.php?catoid=15&coid=46890)
-* [C S 4435 Server-Side Web Programming](https://appstate.catalog.acalog.com/preview_course_nopop.php?catoid=30&coid=109103)
-* [C S 4440 Artificial Intelligence](https://appstate.catalog.acalog.com/preview_course_nopop.php?catoid=30&coid=109104)
 * [C S 3482 Computer Systems II](https://appstate.catalog.acalog.com/preview_course_nopop.php?catoid=30&coid=109092)
 -->
 ### Tools and Languages
