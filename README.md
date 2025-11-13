@@ -11,10 +11,6 @@ Keeps breaking
 
 [![](https://skillicons.dev/icons?i=java,python,html,css,js,git,github,c,cpp,vscode,vim,windows,apple,linux,debian,ubuntu,cmake,gradle,md,nodejs,haskell,androidstudio,kotlin)](https://skillicons.dev)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=orssdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
-
 # 📚 Currently Learning
 [![](https://skillicons.dev/icons?i=react,swift)](https://skillicons.dev)
 
