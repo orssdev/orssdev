@@ -2,10 +2,27 @@
   <h1>Most Used</h1>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orssdev&theme=shadow_red&hide_border=false&layout=compact&bg_color=000000&text_color=ffffff" alt="Top Langs" height="200" />
-    <img src="https://skillicons.dev/icons?i=python,html,css,tailwind,js,ts,react,nodejs,next,express,kotlin,androidstudio,swift,git,mysql,mongo&perline=6" />
+    <p></p>
+  </div>  
+    <div>
+      <img src="https://skillicons.dev/icons?i=python" />
+      <img src="https://skillicons.dev/icons?i=html" />
+      <img src="https://skillicons.dev/icons?i=css" />
+      <img src="https://skillicons.dev/icons?i=tailwind" />
+      <img src="https://skillicons.dev/icons?i=js" />
+      <img src="https://skillicons.dev/icons?i=ts" />
+      <img src="https://skillicons.dev/icons?i=react" />
+      <img src="https://skillicons.dev/icons?i=nodejs" />
+      <img src="https://skillicons.dev/icons?i=next" />
+      <img src="https://skillicons.dev/icons?i=express" />
+      <img src="https://skillicons.dev/icons?i=kotlin" />
+      <img src="https://skillicons.dev/icons?i=androidstudio" />
+      <img src="https://skillicons.dev/icons?i=swift" />
+      <img src="https://skillicons.dev/icons?i=git" />
+      <img src="https://skillicons.dev/icons?i=mysql" />
+      <img src="https://skillicons.dev/icons?i=mongo" />
+    </div>
 <h1>Repositories</h1>
-  </div>
-  
   <div>
     <a href="https://medialog.orss.dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=orssdev&repo=Media-Log&theme=shadow_red&hide_border=false&layout=compact&bg_color=000000&text_color=ffffff" alt="Repo Stats" height="200" /></a>
     <a href="https://portfolio.orss.dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=orssdev&repo=portfolio&theme=shadow_red&hide_border=false&layout=compact&bg_color=000000&text_color=ffffff" alt="Repo Stats" height="200" /></a>
