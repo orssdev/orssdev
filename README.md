@@ -28,6 +28,6 @@
 <h1>Web Apps</h1>
   <div>
     <a href="https://medialog.orss.dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=orssdev&repo=media-log&theme=shadow_red&hide_border=false&layout=compact&bg_color=000000&text_color=ffffff" alt="Repo Stats" height="200" /></a>
-    <a href="https://portfolio.orss.dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=orssdev&repo=portfolio&theme=shadow_red&hide_border=false&layout=compact&bg_color=000000&text_color=ffffff" alt="Repo Stats" height="200" /></a>
+    <a href="https://portfolio.orss.dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=orssdev&repo=Portfolio&theme=shadow_red&hide_border=false&layout=compact&bg_color=000000&text_color=ffffff" alt="Repo Stats" height="200" /></a>
   </div>
 </div>
